@@ -10,7 +10,7 @@ requirements
 ## 安装
 install
 ```bash
-$ composer require 96qbhy/baidu-aip
+$ composer require litesrv/baidu-aip
 ```
 
 ## 使用
